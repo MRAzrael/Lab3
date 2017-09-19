@@ -43,7 +43,7 @@ public static String urlToString(final String url) {
               count = count + 1;
           }
       }
-      System.out.println("Word appears:" + count);
+      System.out.println("Word appears:" + count + "times.");
    }
 
 
